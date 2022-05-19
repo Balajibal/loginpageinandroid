@@ -74,8 +74,6 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-<br>
-</br>
 ### activity_main.xml
 ```python
 <?xml version="1.0" encoding="utf-8"?>
